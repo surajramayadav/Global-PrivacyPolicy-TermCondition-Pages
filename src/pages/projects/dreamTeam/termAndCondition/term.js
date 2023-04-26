@@ -5,9 +5,9 @@ export default function TermAndConditionDreamTeam() {
         <div>
             <header id="tskle-header-js54" class="sticky-top bg-primary mb-5">
                 <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-primary">
-                    <a style="font-family: Arial, Helvetica, sans-serif;color: white;" class="navbar-brand font-weight-bold align-top"
+                    <a styles="font-family: Arial, Helvetica, sans-serif;color: white;" class="navbar-brand font-weight-bold align-top"
                         href="/">
-                        <img style="position: relative; top: -2px;right: 10px" src="/assets/img/web/logo.svg" width="30" height="30"
+                        <img styles="position: relative; top: -2px;right: 10px" src="/assets/img/web/logo.svg" width="30" height="30"
                             class="d-inline-block align-top " />Dream Team
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
@@ -28,18 +28,18 @@ export default function TermAndConditionDreamTeam() {
 
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">1.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">1.
                     Legality</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">You may only use the Services to play Cash
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">You may only use the Services to play Cash
                     Games (as defined below) if you are 18 years of age or over. Access to our Services or any part thereof may be
                     restricted by us from time to time in our sole decision. You confirm that you are not accessing the Services to
                     play Cash Games from any Restricted State or outside India.</p>
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">2.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">2.
                     Game Services</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">All tournaments, promotional games, practice
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">All tournaments, promotional games, practice
                     games and cash games organized on the Portal are collectively referred as "Game" or "Games". We reserve the right
                     to match the players on the basis of their skill level. The rules applicable to each type of Game are provided
                     under the Help section on the respective Website and App. "Cash Game(s)" is/are Game(s) that require the
@@ -52,8 +52,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">User representations</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">Any information provided by you to us, whether
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">User representations</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">Any information provided by you to us, whether
                     at the stage of registration or during anytime subsequently, should be complete and truthful. Prior to adding cash
                     to your user account or participating in Cash Game(s), you shall be responsible to satisfy yourself about the
                     legality of playing Cash Games in the jurisdiction from where you are accessing Cash Games. If you are not legally
@@ -104,9 +104,9 @@ export default function TermAndConditionDreamTeam() {
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">4.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">4.
                     User Account Creation & Operation</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">To use our Services, you will need to register
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">To use our Services, you will need to register
                     with us on the Portal. By completing the online registration process on the Portal, you confirm your acceptance of
                     the Terms. By registering on our Portal, you agree to receive all communication from us including promotional
                     messages relating to Tournaments & Bonus through SMS, voice call, Email and Push Notifications. You may withdraw
@@ -167,9 +167,9 @@ export default function TermAndConditionDreamTeam() {
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">5.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">5.
                     User Account validation and personal information verification</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">Play Games24x7 may from time to time attempt
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">Play Games24x7 may from time to time attempt
                     to validate its players' user accounts. These attempts may be made via a phone call or via email. In the event we
                     are not able to get in touch with you the first time around, we will make additional attempts to establish contact
                     with you. If the phone number and email provided by you is not correct, we bear no responsibility for the Services
@@ -190,9 +190,9 @@ export default function TermAndConditionDreamTeam() {
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">6.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">6.
                     User restrictions</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">
                     Anti-Cheating and Anti-Collusion:
                     You undertake that you yourself will play in all Games in which you have registered/joined and not use any form of
                     external assistance to play. You shall not add unauthorized components, create or use cheats, exploits, bots,
@@ -280,9 +280,9 @@ export default function TermAndConditionDreamTeam() {
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">7.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">7.
                     Payments and Player Funds</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">All transactions on the Portal shall be in
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">All transactions on the Portal shall be in
                     Indian Rupees.
 
                     Once you register on our Portal, we maintain a user account for you to keep a record of all your transactions with
@@ -334,9 +334,9 @@ export default function TermAndConditionDreamTeam() {
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">8.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">8.
                     Withdrawals</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">You may withdraw your winnings by means of
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">You may withdraw your winnings by means of
                     either an account payee cheque or an electronic bank to bank transfer for the amount of winnings.
 
                     You agree that all withdrawals you make are governed by the following conditions:
@@ -373,9 +373,9 @@ export default function TermAndConditionDreamTeam() {
             </div>
 
             <div class="container text-justify mb-5">
-                <span class="h5 font-weight-bold text-justify" style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">9.
+                <span class="h5 font-weight-bold text-justify" styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">9.
                     Service Disruptions</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">You may face Service disruptions, including,
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">You may face Service disruptions, including,
                     but not limited to disconnection or communication interferences due to issues in the internet infrastructure used
                     for providing or accessing the Services or due to issues with the hardware and software used by you. You
                     understand that Play Games24x7 has no control over these factors. Play Games24x7 shall not be responsible for any
@@ -401,8 +401,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">10. Content</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">All content and material on the Portal
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">10. Content</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">All content and material on the Portal
                     including but not limited to information, scores, ranking, winnings, images, marks, logos, designs, pictures,
                     graphics, text content, hyperlinks, multimedia clips, animation, games and software (collectively referred to as
                     "Content"), whether or not belonging to Play Games24x7, are protected by law including applicable intellectual
@@ -425,8 +425,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">11. Special Offer / Bundle Offer</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">If you are unable to join any one or more
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">11. Special Offer / Bundle Offer</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">If you are unable to join any one or more
                     Contest(s) in any special offer for any reason whatsoever, you will not be able to avail such offer. In such
                     cases, any money deducted from the wallet will be refunded to your wallet and you can rejoin any of such contests
                     individually as a normal user provided such Contests are available and subject to the terms of such Contests.</p>
@@ -434,8 +434,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">12. Promotions</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">Bring A Friend ("BAF"):
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">12. Promotions</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">Bring A Friend ("BAF"):
 
                     You can invite a friend, acquaintance or any other person to use the Services available on the Portal by accessing
                     the "Bring - A - Friend" feature on the Portal. The BAF bonus plan shall be governed by the additional terms and
@@ -455,8 +455,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">13. Loyalty Program</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">Play Games24x7 may have common or separate
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">13. Loyalty Program</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">Play Games24x7 may have common or separate
                     loyalty programs for its different products/ games. Details and applicable terms and conditions of our loyalty
                     program can be accessed on the respective Promotion sections. Our loyalty program(s) or the terms thereof may be
                     altered or discontinued by us at any time without any notice and without any liability on Play Games24x7
@@ -471,9 +471,9 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">14. License Agreement & Intellectual
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">14. License Agreement & Intellectual
                     Property</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">All Content on the Portal shall be utilized
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">All Content on the Portal shall be utilized
                     only for the purpose of availing Services in conformity with the Terms.
 
                     You acknowledge that all ownership rights and all copyright and other intellectual property rights in the Content
@@ -500,8 +500,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">15. Voluntary termination</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">You are free to discontinue use of the
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">15. Voluntary termination</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">You are free to discontinue use of the
                     Services on any Website at any time by intimating us of your desire to do so by sending an email to us at
                     support@RummyCircle.com or support@DreamTeam.com (for DreamTeam) as the case may be. If at such time, there is a
                     positive withdrawable cash balance in your user account, we will, subject to satisfactory verification, disburse
@@ -510,8 +510,8 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">16. User Account suspension</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">We may suspend or otherwise put restrictions
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">16. User Account suspension</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">We may suspend or otherwise put restrictions
                     on your access to the Services on the Portal during investigation for any of the following reasons:
 
                     Suspected violation of Terms or other abuse of your user account;
@@ -523,39 +523,39 @@ export default function TermAndConditionDreamTeam() {
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;">17. Responsible Game Play</span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;">We encourage all players to play responsibly.
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;">17. Responsible Game Play</span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;">We encourage all players to play responsibly.
                     We are committed to helping players who wish to stop playing or who wish to limit the amount that they play. </p>
             </div>
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;"></p>
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;"></p>
             </div>
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;"></p>
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;"></p>
             </div>
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;"></p>
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;"></p>
             </div>
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;"></p>
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;"></p>
             </div>
 
             <div class="container text-justify mb-5">
                 <span class="h5 font-weight-bold text-justify"
-                    style="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
-                <p class="mt-3 text-justify" style="color: #14171a; font-size: 16px;"></p>
+                    styles="color: #14171a; font-family: Arial, Helvetica, sans-serif;"></span>
+                <p class="mt-3 text-justify" styles="color: #14171a; font-size: 16px;"></p>
             </div>
 
 
